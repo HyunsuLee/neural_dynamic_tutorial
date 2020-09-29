@@ -1,2 +1,5 @@
-# neural_dynamic_tutorial
+# Neural dynamics
+
 Neural dynamics by Wulfram Gerstner.
+
+https://neuronaldynamics.epfl.ch/
